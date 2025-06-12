@@ -1,0 +1,5 @@
+# Ignore the pos-xlm-r directory
+pos-xlm-r/
+
+# Ignore the venv directory
+venv/
